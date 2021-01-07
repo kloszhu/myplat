@@ -1,0 +1,5 @@
+from pydantic import BaseModel
+# tocken类
+class l_Token(BaseModel):
+    access_token: str
+    token_type: str
