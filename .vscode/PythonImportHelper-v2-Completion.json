@@ -1,0 +1,1132 @@
+[
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Cookie",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Cookie",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "dao.usercontroller",
+        "description": "dao.usercontroller",
+        "isExtraImport": true,
+        "detail": "dao.usercontroller",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "dao.usercontroller",
+        "description": "dao.usercontroller",
+        "isExtraImport": true,
+        "detail": "dao.usercontroller",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "dao.database",
+        "description": "dao.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = \"sqlite:///./sql_app.db\"\n# SQLALCHEMY_DATABASE_URL = \"postgresql://user:password@postgresserver/db\"\nengine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "dao.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "dao.database",
+        "description": "dao.database",
+        "peekOfCode": "engine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "dao.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "dao.database",
+        "description": "dao.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "dao.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "dao.database",
+        "description": "dao.database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "dao.database",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "dao.models",
+        "description": "dao.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    email = Column(String, unique=True, index=True)\n    hashed_password = Column(String)\n    is_active = Column(Boolean, default=True)\n    items = relationship(\"Item\", back_populates=\"owner\")\nclass Item(Base):\n    __tablename__ = \"items\"\n    id = Column(Integer, primary_key=True, index=True)",
+        "detail": "dao.models",
+        "documentation": {}
+    },
+    {
+        "label": "Item",
+        "kind": 6,
+        "importPath": "dao.models",
+        "description": "dao.models",
+        "peekOfCode": "class Item(Base):\n    __tablename__ = \"items\"\n    id = Column(Integer, primary_key=True, index=True)\n    title = Column(String, index=True)\n    description = Column(String, index=True)\n    owner_id = Column(Integer, ForeignKey(\"users.id\"))\n    owner = relationship(\"User\", back_populates=\"items\")",
+        "detail": "dao.models",
+        "documentation": {}
+    },
+    {
+        "label": "ItemBase",
+        "kind": 6,
+        "importPath": "dao.schema",
+        "description": "dao.schema",
+        "peekOfCode": "class ItemBase(BaseModel):\n    title: str\n    description: Optional[str] = None\nclass ItemCreate(ItemBase):\n    pass\nclass Item(ItemBase):\n    id: int\n    owner_id: int\n    class Config:\n        orm_mode = True",
+        "detail": "dao.schema",
+        "documentation": {}
+    },
+    {
+        "label": "ItemCreate",
+        "kind": 6,
+        "importPath": "dao.schema",
+        "description": "dao.schema",
+        "peekOfCode": "class ItemCreate(ItemBase):\n    pass\nclass Item(ItemBase):\n    id: int\n    owner_id: int\n    class Config:\n        orm_mode = True\nclass UserBase(BaseModel):\n    email: str\nclass UserCreate(UserBase):",
+        "detail": "dao.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Item",
+        "kind": 6,
+        "importPath": "dao.schema",
+        "description": "dao.schema",
+        "peekOfCode": "class Item(ItemBase):\n    id: int\n    owner_id: int\n    class Config:\n        orm_mode = True\nclass UserBase(BaseModel):\n    email: str\nclass UserCreate(UserBase):\n    password: str\nclass User(UserBase):",
+        "detail": "dao.schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "dao.schema",
+        "description": "dao.schema",
+        "peekOfCode": "class UserBase(BaseModel):\n    email: str\nclass UserCreate(UserBase):\n    password: str\nclass User(UserBase):\n    id: int\n    is_active: bool\n    items: List[Item] = []\n    class Config:\n        orm_mode = True",
+        "detail": "dao.schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "dao.schema",
+        "description": "dao.schema",
+        "peekOfCode": "class UserCreate(UserBase):\n    password: str\nclass User(UserBase):\n    id: int\n    is_active: bool\n    items: List[Item] = []\n    class Config:\n        orm_mode = True",
+        "detail": "dao.schema",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "dao.schema",
+        "description": "dao.schema",
+        "peekOfCode": "class User(UserBase):\n    id: int\n    is_active: bool\n    items: List[Item] = []\n    class Config:\n        orm_mode = True",
+        "detail": "dao.schema",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "dao.usercontroller",
+        "description": "dao.usercontroller",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@router.post(\"/users/\", response_model=schema.User,tags=[\"users\"])\ndef create_user(user: schema.UserCreate, db: Session = Depends(get_db)):\n    db_user = userdao.get_user_by_email(db, email=user.email)\n    if db_user:",
+        "detail": "dao.usercontroller",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "dao.usercontroller",
+        "description": "dao.usercontroller",
+        "peekOfCode": "def create_user(user: schema.UserCreate, db: Session = Depends(get_db)):\n    db_user = userdao.get_user_by_email(db, email=user.email)\n    if db_user:\n        raise HTTPException(status_code=400, detail=\"Email already registered\")\n    return userdao.create_user(db=db, user=user)\n@router.get(\"/users/\", response_model=List[schema.User],tags=[\"users\"])\ndef read_users(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):\n    users = userdao.get_users(db, skip=skip, limit=limit)\n    return users\n@router.get(\"/users/{user_id}\", response_model=schema.User,tags=[\"users\"])",
+        "detail": "dao.usercontroller",
+        "documentation": {}
+    },
+    {
+        "label": "read_users",
+        "kind": 2,
+        "importPath": "dao.usercontroller",
+        "description": "dao.usercontroller",
+        "peekOfCode": "def read_users(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):\n    users = userdao.get_users(db, skip=skip, limit=limit)\n    return users\n@router.get(\"/users/{user_id}\", response_model=schema.User,tags=[\"users\"])\ndef read_user(user_id: int, db: Session = Depends(get_db)):\n    db_user = userdao.get_user(db, user_id=user_id)\n    if db_user is None:\n        raise HTTPException(status_code=404, detail=\"User not found\")\n    return db_user\n@router.post(\"/users/{user_id}/items/\", response_model=schema.Item,tags=[\"users\"])",
+        "detail": "dao.usercontroller",
+        "documentation": {}
+    },
+    {
+        "label": "read_user",
+        "kind": 2,
+        "importPath": "dao.usercontroller",
+        "description": "dao.usercontroller",
+        "peekOfCode": "def read_user(user_id: int, db: Session = Depends(get_db)):\n    db_user = userdao.get_user(db, user_id=user_id)\n    if db_user is None:\n        raise HTTPException(status_code=404, detail=\"User not found\")\n    return db_user\n@router.post(\"/users/{user_id}/items/\", response_model=schema.Item,tags=[\"users\"])\ndef create_item_for_user(\n    user_id: int, item: schema.ItemCreate, db: Session = Depends(get_db)\n):\n    return userdao.create_user_item(db=db, item=item, user_id=user_id)",
+        "detail": "dao.usercontroller",
+        "documentation": {}
+    },
+    {
+        "label": "create_item_for_user",
+        "kind": 2,
+        "importPath": "dao.usercontroller",
+        "description": "dao.usercontroller",
+        "peekOfCode": "def create_item_for_user(\n    user_id: int, item: schema.ItemCreate, db: Session = Depends(get_db)\n):\n    return userdao.create_user_item(db=db, item=item, user_id=user_id)\n@router.get(\"/items/\", response_model=List[schema.Item],tags=[\"users\"])\ndef read_items(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):\n    items = userdao.get_items(db, skip=skip, limit=limit)\n    return items",
+        "detail": "dao.usercontroller",
+        "documentation": {}
+    },
+    {
+        "label": "read_items",
+        "kind": 2,
+        "importPath": "dao.usercontroller",
+        "description": "dao.usercontroller",
+        "peekOfCode": "def read_items(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):\n    items = userdao.get_items(db, skip=skip, limit=limit)\n    return items",
+        "detail": "dao.usercontroller",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "dao.userdao",
+        "description": "dao.userdao",
+        "peekOfCode": "def get_user(db: Session, user_id: int):\n    return db.query(models.User).filter(models.User.id == user_id).first()\ndef get_user_by_email(db: Session, email: str):\n    return db.query(models.User).filter(models.User.email == email).first()\ndef get_users(db: Session, skip: int = 0, limit: int = 100):\n    return db.query(models.User).offset(skip).limit(limit).all()\ndef create_user(db: Session, user: schema.UserCreate):\n    fake_hashed_password = user.password + \"notreallyhashed\"\n    db_user = models.User(email=user.email, hashed_password=fake_hashed_password)\n    db.add(db_user)",
+        "detail": "dao.userdao",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_email",
+        "kind": 2,
+        "importPath": "dao.userdao",
+        "description": "dao.userdao",
+        "peekOfCode": "def get_user_by_email(db: Session, email: str):\n    return db.query(models.User).filter(models.User.email == email).first()\ndef get_users(db: Session, skip: int = 0, limit: int = 100):\n    return db.query(models.User).offset(skip).limit(limit).all()\ndef create_user(db: Session, user: schema.UserCreate):\n    fake_hashed_password = user.password + \"notreallyhashed\"\n    db_user = models.User(email=user.email, hashed_password=fake_hashed_password)\n    db.add(db_user)\n    db.commit()\n    db.refresh(db_user)",
+        "detail": "dao.userdao",
+        "documentation": {}
+    },
+    {
+        "label": "get_users",
+        "kind": 2,
+        "importPath": "dao.userdao",
+        "description": "dao.userdao",
+        "peekOfCode": "def get_users(db: Session, skip: int = 0, limit: int = 100):\n    return db.query(models.User).offset(skip).limit(limit).all()\ndef create_user(db: Session, user: schema.UserCreate):\n    fake_hashed_password = user.password + \"notreallyhashed\"\n    db_user = models.User(email=user.email, hashed_password=fake_hashed_password)\n    db.add(db_user)\n    db.commit()\n    db.refresh(db_user)\n    return db_user\ndef get_items(db: Session, skip: int = 0, limit: int = 100):",
+        "detail": "dao.userdao",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "dao.userdao",
+        "description": "dao.userdao",
+        "peekOfCode": "def create_user(db: Session, user: schema.UserCreate):\n    fake_hashed_password = user.password + \"notreallyhashed\"\n    db_user = models.User(email=user.email, hashed_password=fake_hashed_password)\n    db.add(db_user)\n    db.commit()\n    db.refresh(db_user)\n    return db_user\ndef get_items(db: Session, skip: int = 0, limit: int = 100):\n    return db.query(models.Item).offset(skip).limit(limit).all()\ndef create_user_item(db: Session, item: schema.ItemCreate, user_id: int):",
+        "detail": "dao.userdao",
+        "documentation": {}
+    },
+    {
+        "label": "get_items",
+        "kind": 2,
+        "importPath": "dao.userdao",
+        "description": "dao.userdao",
+        "peekOfCode": "def get_items(db: Session, skip: int = 0, limit: int = 100):\n    return db.query(models.Item).offset(skip).limit(limit).all()\ndef create_user_item(db: Session, item: schema.ItemCreate, user_id: int):\n    db_item = models.Item(**item.dict(), owner_id=user_id)\n    db.add(db_item)\n    db.commit()\n    db.refresh(db_item)\n    return db_item",
+        "detail": "dao.userdao",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_item",
+        "kind": 2,
+        "importPath": "dao.userdao",
+        "description": "dao.userdao",
+        "peekOfCode": "def create_user_item(db: Session, item: schema.ItemCreate, user_id: int):\n    db_item = models.Item(**item.dict(), owner_id=user_id)\n    db.add(db_item)\n    db.commit()\n    db.refresh(db_item)\n    return db_item",
+        "detail": "dao.userdao",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "test.auth01",
+        "description": "test.auth01",
+        "peekOfCode": "class User(BaseModel):\n    username: str\n    email: Optional[str] = None\n    full_name: Optional[str] = None\n    disabled: Optional[bool] = None\ndef fake_decode_token(token):\n    return User(\n        username=token + \"fakedecoded\", email=\"john@example.com\", full_name=\"John Doe\"\n    )\nasync def get_current_user(token: str = Depends(oauth2_scheme)):",
+        "detail": "test.auth01",
+        "documentation": {}
+    },
+    {
+        "label": "MyTestCase",
+        "kind": 6,
+        "importPath": "test.auth01",
+        "description": "test.auth01",
+        "peekOfCode": "class MyTestCase(unittest.TestCase):\n    def test_something(self):\n        self.assertEqual(True, False)\nif __name__ == '__main__':\n    unittest.main()",
+        "detail": "test.auth01",
+        "documentation": {}
+    },
+    {
+        "label": "fake_decode_token",
+        "kind": 2,
+        "importPath": "test.auth01",
+        "description": "test.auth01",
+        "peekOfCode": "def fake_decode_token(token):\n    return User(\n        username=token + \"fakedecoded\", email=\"john@example.com\", full_name=\"John Doe\"\n    )\nasync def get_current_user(token: str = Depends(oauth2_scheme)):\n    user = fake_decode_token(token)\n    return user\n@app.get(\"/users/me\")\nasync def read_users_me(current_user: User = Depends(get_current_user)):\n    return current_user",
+        "detail": "test.auth01",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "test.auth01",
+        "description": "test.auth01",
+        "peekOfCode": "app = FastAPI()\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\nclass User(BaseModel):\n    username: str\n    email: Optional[str] = None\n    full_name: Optional[str] = None\n    disabled: Optional[bool] = None\ndef fake_decode_token(token):\n    return User(\n        username=token + \"fakedecoded\", email=\"john@example.com\", full_name=\"John Doe\"",
+        "detail": "test.auth01",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "test.auth01",
+        "description": "test.auth01",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\nclass User(BaseModel):\n    username: str\n    email: Optional[str] = None\n    full_name: Optional[str] = None\n    disabled: Optional[bool] = None\ndef fake_decode_token(token):\n    return User(\n        username=token + \"fakedecoded\", email=\"john@example.com\", full_name=\"John Doe\"\n    )",
+        "detail": "test.auth01",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    username: Optional[str] = None\nclass User(BaseModel):\n    username: str\n    email: Optional[str] = None\n    full_name: Optional[str] = None\n    disabled: Optional[bool] = None",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "class TokenData(BaseModel):\n    username: Optional[str] = None\nclass User(BaseModel):\n    username: str\n    email: Optional[str] = None\n    full_name: Optional[str] = None\n    disabled: Optional[bool] = None\nclass UserInDB(User):\n    hashed_password: str\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "class User(BaseModel):\n    username: str\n    email: Optional[str] = None\n    full_name: Optional[str] = None\n    disabled: Optional[bool] = None\nclass UserInDB(User):\n    hashed_password: str\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\napp = FastAPI()",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "UserInDB",
+        "kind": 6,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "class UserInDB(User):\n    hashed_password: str\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\napp = FastAPI()\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "MyTestCase",
+        "kind": 6,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "class MyTestCase(unittest.TestCase):\n    def test_something(self):\n        self.assertEqual(True, False)\nif __name__ == '__main__':\n    unittest.main()",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "def verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)\ndef authenticate_user(fake_db, username: str, password: str):\n    user = get_user(fake_db, username)",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "def get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)\ndef authenticate_user(fake_db, username: str, password: str):\n    user = get_user(fake_db, username)\n    if not user:\n        return False",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "def get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)\ndef authenticate_user(fake_db, username: str, password: str):\n    user = get_user(fake_db, username)\n    if not user:\n        return False\n    if not verify_password(password, user.hashed_password):\n        return False",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "kind": 2,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "def authenticate_user(fake_db, username: str, password: str):\n    user = get_user(fake_db, username)\n    if not user:\n        return False\n    if not verify_password(password, user.hashed_password):\n        return False\n    return user\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=15)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\nasync def get_current_user(token: str = Depends(oauth2_scheme)):",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "SECRET_KEY = \"49fd4bbfba3bb5a6a10040c35d55f061359ab14f81ced1581f1787410ba219f6\"\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\nfake_users_db = {\n    \"johndoe\": {\n        \"username\": \"johndoe\",\n        \"full_name\": \"John Doe\",\n        \"email\": \"johndoe@example.com\",\n        \"hashed_password\": \"$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW\",\n        \"disabled\": False,",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\nfake_users_db = {\n    \"johndoe\": {\n        \"username\": \"johndoe\",\n        \"full_name\": \"John Doe\",\n        \"email\": \"johndoe@example.com\",\n        \"hashed_password\": \"$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW\",\n        \"disabled\": False,\n    }",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 30\nfake_users_db = {\n    \"johndoe\": {\n        \"username\": \"johndoe\",\n        \"full_name\": \"John Doe\",\n        \"email\": \"johndoe@example.com\",\n        \"hashed_password\": \"$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW\",\n        \"disabled\": False,\n    }\n}",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "fake_users_db",
+        "kind": 5,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "fake_users_db = {\n    \"johndoe\": {\n        \"username\": \"johndoe\",\n        \"full_name\": \"John Doe\",\n        \"email\": \"johndoe@example.com\",\n        \"hashed_password\": \"$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW\",\n        \"disabled\": False,\n    }\n}\nclass Token(BaseModel):",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\napp = FastAPI()\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\napp = FastAPI()\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "test.jwttest",
+        "description": "test.jwttest",
+        "peekOfCode": "app = FastAPI()\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)\ndef authenticate_user(fake_db, username: str, password: str):",
+        "detail": "test.jwttest",
+        "documentation": {}
+    },
+    {
+        "label": "Main",
+        "kind": 6,
+        "importPath": "abc",
+        "description": "abc",
+        "peekOfCode": "class Main(FastAPI):\n    @self.post(\"/test/abc\", response_model=schema.User,tags=[\"test\"])\n    def test():\n        return {\"status\":\"OK\"}",
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "common",
+        "description": "common",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")",
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\n# tocken模型\nclass TokenData(BaseModel):\n    username: Optional[str] = None\n# 用户模型\nclass User(BaseModel):\n    username: str\n    email: Optional[str] = None",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "class TokenData(BaseModel):\n    username: Optional[str] = None\n# 用户模型\nclass User(BaseModel):\n    username: str\n    email: Optional[str] = None\n    full_name: Optional[str] = None\n    disabled: Optional[bool] = None\nclass UserInDB(User):\n    hashed_password: str",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "class User(BaseModel):\n    username: str\n    email: Optional[str] = None\n    full_name: Optional[str] = None\n    disabled: Optional[bool] = None\nclass UserInDB(User):\n    hashed_password: str\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\ndef verify_password(plain_password, hashed_password):",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "UserInDB",
+        "kind": 6,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "class UserInDB(User):\n    hashed_password: str\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "def verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)\ndef authenticate_user(fake_db, username: str, password: str):\n    user = get_user(fake_db, username)",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "def get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)\ndef authenticate_user(fake_db, username: str, password: str):\n    user = get_user(fake_db, username)\n    if not user:\n        return False",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "def get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)\ndef authenticate_user(fake_db, username: str, password: str):\n    user = get_user(fake_db, username)\n    if not user:\n        return False\n    if not verify_password(password, user.hashed_password):\n        return False",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "kind": 2,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "def authenticate_user(fake_db, username: str, password: str):\n    user = get_user(fake_db, username)\n    if not user:\n        return False\n    if not verify_password(password, user.hashed_password):\n        return False\n    return user\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=15)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\nasync def get_current_user(token: str = Depends(oauth2_scheme)):",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "SECRET_KEY = \"09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7\"\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\n# 模拟用户\nfake_users_db = {\n    \"johndoe\": {\n        \"username\": \"johndoe\",\n        \"full_name\": \"John Doe\",\n        \"email\": \"johndoe@example.com\",\n        \"hashed_password\": \"$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW\",",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\n# 模拟用户\nfake_users_db = {\n    \"johndoe\": {\n        \"username\": \"johndoe\",\n        \"full_name\": \"John Doe\",\n        \"email\": \"johndoe@example.com\",\n        \"hashed_password\": \"$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW\",\n        \"disabled\": False,",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 30\n# 模拟用户\nfake_users_db = {\n    \"johndoe\": {\n        \"username\": \"johndoe\",\n        \"full_name\": \"John Doe\",\n        \"email\": \"johndoe@example.com\",\n        \"hashed_password\": \"$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW\",\n        \"disabled\": False,\n    }",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "fake_users_db",
+        "kind": 5,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "fake_users_db = {\n    \"johndoe\": {\n        \"username\": \"johndoe\",\n        \"full_name\": \"John Doe\",\n        \"email\": \"johndoe@example.com\",\n        \"hashed_password\": \"$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW\",\n        \"disabled\": False,\n    }\n}\n# tocken类",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "jwtauth",
+        "description": "jwtauth",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"token\")\ndef verify_password(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password):\n    return pwd_context.hash(password)\ndef get_user(db, username: str):\n    if username in db:\n        user_dict = db[username]\n        return UserInDB(**user_dict)\ndef authenticate_user(fake_db, username: str, password: str):",
+        "detail": "jwtauth",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\n# 路由\napp.include_router(userrouter)\napp.include_router(userdaorouter)\n# CORS\norigins = [\n    \"http://127.0.0.1:8000\",\n    \"http://127.0.0.1:8000\",\n    \"http://localhost:8000\",\n    \"http://localhost:8080\",",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "origins = [\n    \"http://127.0.0.1:8000\",\n    \"http://127.0.0.1:8000\",\n    \"http://localhost:8000\",\n    \"http://localhost:8080\",\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,",
+        "detail": "main",
+        "documentation": {}
+    }
+]
